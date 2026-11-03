@@ -60,6 +60,9 @@ blockquote {
 <!-- _class: lead -->
 
 #  Sprint / Jalon 
+![width:120 OFPPT](images/imag.png)
+![width:120 Solicode](images/image.png)
+
 
 ### Présentation générale
 
@@ -131,9 +134,9 @@ Les responsabilités
 
 </div>
 
-<div style="background:white;padding:20px;border-radius:12px">
-
 ### 04 — Estimer
+
+<div style="background:white;padding:20px;border-radius:12px">
 
 Le temps nécessaire
 
@@ -161,7 +164,7 @@ Le temps nécessaire
 
 ---
 
-# 🚧 04 — Difficultés rencontrées
+# 04 — Difficultés rencontrées
 
 Pendant le Sprint, nous avons rencontré plusieurs défis :
 
