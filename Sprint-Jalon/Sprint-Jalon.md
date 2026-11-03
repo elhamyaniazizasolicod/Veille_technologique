@@ -272,5 +272,3 @@ Le Sprint 3 nous a permis de **faire progresser le projet et d'améliorer notre 
 # Merci
 
 ## Merci pour votre attention
-
-### Des questions ?
